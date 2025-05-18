@@ -6,34 +6,37 @@ import { Card } from '@/components/ui/card';
 import testimonialVideo from '/Users/khaleddwaik/Desktop/smoking/last.mp4';
 import testimonialAudio from '/Users/khaleddwaik/Desktop/smoking/src/edited_voice (1).mp4';
 import testimonialAudioPic from "/Users/khaleddwaik/Desktop/smoking/Screenshot 2025-05-17 at 10.58.21 PM.png";
+import pic1 from "/Users/khaleddwaik/Desktop/smoking/edited_color.jpg";
+import pic2 from "/Users/khaleddwaik/Desktop/smoking/grayscale.jpg";
+import pic3 from "/Users/khaleddwaik/Desktop/smoking/monochrome.png";
 const successStories = [
   {
     id: 1,
-    name: "Michael Johnson",
+    name: "Khaled Dwaik 1",
     age: 42,
     duration: "12 years",
     quitPeriod: "2 years",
-    image: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: pic1,
     story: "I started using the NeuroQuit.AI platform after multiple failed attempts with traditional methods. The neural pattern recognition identified my specific triggers with uncanny accuracy. During moments when I would typically crave a cigarette, the AI intervention system would send personalized biofeedback exercises that completely redirected my neural response. The quantum evolution of my personalized plan as I progressed through different stages was remarkable.",
     advice: "Trust the neural recalibration process. The first week seems impossible, but the AI adapts to your specific neural patterns in real-time."
   },
   {
     id: 2,
-    name: "Sarah Williams",
+    name: "Khaled Dwaik 2",
     age: 35,
     duration: "8 years",
     quitPeriod: "8 months",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: pic2,
     story: "The cognitive rewiring protocol completely transformed how my brain responded to smoking triggers. After scanning my neural patterns, the system identified that my addiction was primarily tied to stress response pathways rather than pure nicotine dependence. This personalized insight led to a completely different approach than I'd tried before. The neural override techniques gave me instant relief during cravings, and the biometric feedback showed me in real-time how my brain was healing.",
     advice: "Use the biometric visualization tools daily. Seeing the neural pathway reconfiguration happening in real-time provides incredible motivation."
   },
   {
     id: 3,
-    name: "David Chen",
+    name: "Khaled Dwaik 3",
     age: 29,
     duration: "6 years",
     quitPeriod: "1 year",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: pic3,
     story: "As a software developer, I was naturally skeptical about the AI claims. But the neural network adaptation was unlike anything I'd experienced. The system predicted my cravings with 93.8% accuracy and provided intervention before I even realized I was about to have a craving. The quantum support matching connected me with others whose neural patterns complemented mine for optimal reciprocal support. The data visualization of my neural recovery kept me motivated through the most challenging phases.",
     advice: "Allow the quantum computing system to match you with optimal support partners. The neural compatibility algorithm creates connections that traditional support groups can't match."
   },
